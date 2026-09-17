@@ -1,0 +1,8 @@
+{
+  "name": "AutoStamp PDF AI",
+  "description": "Analisa PDFs com modelos OpenAI para identificar dados empresariais, cria um carimbo azul e o aplica ao documento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "SERVER_SIDE_OPENAI_RESPONSES_API"
+  ]
+}
